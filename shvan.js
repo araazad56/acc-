@@ -7366,7 +7366,7 @@ client.on("message", message => {
 if (!message.guild) return;
 
 client35.login("ODc1ODQxNzk1OTk5ODA1NDcz.YRgrsw.x2-3-72WstHVSZeeHolENvC7zFQ");
-client36.login("");
+client36.login("ODgxMjcwMTI0NDc1MTg3MjAy.YSqZ2g.R6_ImDngc3F-C0rVwAnoEDKDfoc");
 client37.login("");
 client38.login("");
 client39.login("");
